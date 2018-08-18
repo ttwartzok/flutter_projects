@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-
+import './ui/Klimatic.dart';
 
 void main(){
 
@@ -7,7 +7,7 @@ void main(){
   runApp(MaterialApp(
 
         title: 'Weatherapp',
-    home:
+    home:Klimatic(),
       
 
 
